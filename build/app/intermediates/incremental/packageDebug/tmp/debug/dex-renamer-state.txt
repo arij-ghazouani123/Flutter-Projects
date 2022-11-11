@@ -1,0 +1,4 @@
+#Fri Nov 11 20:16:26 WAT 2022
+base.0=E\:\\Education\\ESPRIT\\4SIM5\\Flutter\\project1\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
