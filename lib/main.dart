@@ -1,9 +1,11 @@
 import 'package:flutter/material.dart';
+import 'package:project1/Screens/ResetPassword.dart';
 import 'package:project1/Screens/bibliotheque.dart';
 import 'package:project1/Screens/details.dart';
 import 'package:project1/Screens/home_screen.dart';
 import 'package:project1/Screens/inscription.dart';
-import 'package:project1/Screens/signup.dart';
+import 'package:project1/Screens/movie-panier.dart';
+import 'package:project1/Screens/signin.dart';
 
 void main() {
   runApp(const MyApp());
@@ -19,7 +21,7 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Demo',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(primarySwatch: Colors.red),
-      home: const Inscription(),
+      home: const Panier(),
     );
   }
 }
